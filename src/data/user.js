@@ -61,6 +61,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/jaeakle/HCIRAProject1",
 		},
+
+		{
+			title: "PawfectMatch",
+			description:
+				"Written for my SWE group project. This application aims to provide a simple, tinder-like interface for animal adoption. Users are able to create securely stored accounts, post pet listings, and view listings. The application also uses OpenAI's ChatGPT to add some flavour text to users and pets descriptions. My group won first place in the class for our design.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				linkText: "View Project",
+			link: "https://github.com/ThePawfectMatch/pawfectmatch",
+		}
 	],
 };
 
