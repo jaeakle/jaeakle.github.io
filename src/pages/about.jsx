@@ -49,15 +49,10 @@ const About = () => {
 									{INFO.about.description}
 								</div>
 							</div>
-
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
-										<img
-											src="about.jpg"
-											alt="about"
-											className="about-image"
-										/>
+									<iframe src="https://giphy.com/embed/HoffxyN8ghVuw" width="480" height="276"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-mini-hanger-HoffxyN8ghVuw">via GIPHY</a></p>
 									</div>
 								</div>
 
@@ -66,10 +61,21 @@ const About = () => {
 								</div>
 							</div>
 						</div>
-						<div className="about-socials-mobile">
-							<Socials />
-						</div>
 					</div>
+					<img
+						src="mewmew.jpg"
+						alt="about"
+						className="homepage-image"
+						width="500"
+						height="600"
+					/>
+					<img
+						src="Me and Scooter.jpg"
+						alt="about"
+						className="homepage-image"
+						width="600"
+						height="600"
+					/>
 					<div className="page-footer">
 						<Footer />
 					</div>
