@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Senior Computer Science Student focusing in Information Security",
+		title: "Jack Eakle: Senior Computer Science Student focusing in Information Security",
 		description:
 			"Hello I am Jack Eakle. I am a senior at the University of Florida studying Computer Science and Information Technology with a minor in Engineering innovation. I currently work for the University of Florida Research Computing department as a Helpdesk Support Assistant. My biggest passion is computer security, having participated in numerous CTF's and Red/Blue team competitions. I have a stong drive for growth, and constanlty look to build my knowledge base as a professional.",
 	},
