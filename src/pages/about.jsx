@@ -52,7 +52,7 @@ const About = () => {
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
-									<iframe src="https://giphy.com/embed/HoffxyN8ghVuw" width="480" height="276"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-mini-hanger-HoffxyN8ghVuw">via GIPHY</a></p>
+									<iframe title="Serial Experiments Lain Gif" src="https://giphy.com/embed/HoffxyN8ghVuw" width="480" height="276"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-mini-hanger-HoffxyN8ghVuw">via GIPHY</a></p>
 									</div>
 								</div>
 

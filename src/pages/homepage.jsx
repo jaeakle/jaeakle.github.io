@@ -4,10 +4,7 @@ import { Helmet } from "react-helmet";
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-	faTwitter,
 	faGithub,
-	faStackOverflow,
-	faInstagram,
 	faLinkedin
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -99,17 +96,18 @@ const Homepage = () => {
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description}
 								</div>
-							</div>
-
-							<div className="homepage-first-area-right-side">
-								<div className="homepage-image-container">
-									<div className="homepage-image-wrapper">
+								<div className="homepage-image-wrapper">
 										<img
 											src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif?cid=ecf05e47otmmqmjli77eo29w6mecn84iflzmr16d6j2yyg86&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 											alt="about"
 											className="homepage-image"
 										/>
 									</div>
+							</div>
+
+							<div className="homepage-first-area-right-side">
+								<div className="homepage-image-container">
+
 								</div>
 							</div>
 						</div>
